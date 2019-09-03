@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/felix/ADS-VACACIONES-2019-1/COMPETITVE-PROGRAMMING-PROBLEMS/the-closest-pair-problem-10245-FJ98/main.cpp
+bits/stdc++.h
+-
+
